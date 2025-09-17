@@ -3,8 +3,8 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /_publications/
+  - /publications.md
 ---
 
 1. Nadimpalli, J. R., **Jayan, L.**, Sampatirao, S. S., Suresh Kumar, N., Thangaprakash, V. P., Praveen Kumar, B., & Mathur, M. (2025). Internal tidal beams and their scattering in nonuniform stratification—Observations at a continental slope in the northwest Bay of Bengal. Journal of Geophysical Research: Oceans, 130(5), e2024JC021632._ [link]( https://doi.org/10.1029/2024JC021632)
