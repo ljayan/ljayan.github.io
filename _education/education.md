@@ -2,7 +2,6 @@
 title: ''
 permalink: /education/
 ---
-<br>
 
 **Ph.D. in Physical Oceanography (Dec 2024)**  
 Department of Aerospace Engineering, Indian Institute of Technology Madras, Chennai, India   
