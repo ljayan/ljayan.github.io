@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: #"Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a Postdoctoral Fellow in the Geophysical Flows Lab, Centre of Excellence, and the Department of Aerospace Engineering at the Indian Institute of Technology Madras, India, working with [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en). I completed my Ph.D. in the same department under the supervision of Prof. Mathur in December 2024, with a thesis titled “Eddies and Currents in the Bay of Bengal, with Applications to Freshwater Transport.”
 
+My doctoral research focused on understanding how tracers are transported and stirred by oceanic flows across different spatial and temporal scales in the Bay of Bengal. My current research interests are in oceanic meso- and submesoscale dynamics, tracer transport and mixing in the upper ocean, Lagrangian Coherent Structures (LCS), geophysical wakes and eddies, internal gravity waves, and reduced-gravity ocean models.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I can be reached at lijinastro@gmail.com
