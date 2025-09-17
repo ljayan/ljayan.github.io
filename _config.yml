@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Lijin Jayan"
   pronouns         : # "he/him"  
-  bio              : "Postdoctoral Fellow"
+  bio              : "Postdoc @ IIT Madras"
   location         : "Chennai, India"
-  employer         : "Geophysical Flows Lab, Indian Institute of Technology Madras"
+  employer         : # "Indian Institute of Technology Madras"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ljayan"
+  github           : ljayan
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/lijin-jayan-7b382a350/"
+  linkedin         : lijin-jayan-7b382a350/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
