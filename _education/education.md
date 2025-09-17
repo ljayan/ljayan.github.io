@@ -1,5 +1,5 @@
 ---
-title: 'Education'
+title: ''
 permalink: /education/
 ---
 <br>
