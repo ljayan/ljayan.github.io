@@ -1,14 +1,27 @@
 ---
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+title: 'Education'
+permalink: /education/
 ---
 
-1. Nadimpalli, J. R., **Jayan, L.**, Sampatirao, S. S., Suresh Kumar, N., Thangaprakash, V. P., Praveen Kumar, B., & Mathur, M. (2025). Internal tidal beams and their scattering in nonuniform stratification—Observations at a continental slope in the northwest Bay of Bengal. Journal of Geophysical Research: Oceans, 130(5), e2024JC021632._ [link]( https://doi.org/10.1029/2024JC021632)
-
-2. **Jayan, L.**, Jishad, M., Agarwal, N., Sharma, R., & Mathur, M. (2023). Detection of materially coherent eddies from satellite altimetry in the Bay of Bengal. Deep Sea Research Part I: Oceanographic Research Papers, 202, 104180._ [link](https://doi.org/10.1016/j.dsr.2023.104180)
-
-3. Ratheesh, S., Agarwal, N., Chaudhary, A., **Lijin, J.**, Lekha, J. S., Mathur, M., ... & Kumar, R. (2020). Response of a high-resolution ocean circulation model to winds from different sources in simulating summer monsoon freshening in the North Bay of Bengal: A case study. Deep Sea Research Part II: Topical Studies in Oceanography, 172, 104727.._ [link](https://doi.org/10.1016/j.dsr2.2019.104727)
+Ph.D. in Physical Oceanography, Department of Aerospace Engineering,
+Indian Institute of Technology Madras, Chennai, India
+December 2024
+• Advisor: Prof. Manikandan Mathur
+• Thesis: Eddies and Currents in the Bay of Bengal with Applications to Freshwater Transport
+• CGPA: 8.75/10
+• Highlights:
+– Investigated the transport and stirring of tracers by oceanic flows across multiple spatial and temporal scales
+in the Bay of Bengal.
+– Analyzed a wide variety of data, including satellite observations, ocean model outputs, mooring data, and
+ship-based in-situ measurements.
+– Developed a 1.5-layer reduced gravity model from scratch to study the role of local and remote wind forcing
+on advective stirring in the Bay of Bengal.
+– Extensively used dynamical systems frameworks such as Hyperbolic LCS and Lagrangian-Averaged Vorticity
+Deviation (LAVD) for data analysis and interpretation.
+M.Tech. in Thermal Sciences, Department of Mechanical Engineering,
+National Institute of Technology Calicut, India
+June 2016
+• Advisor: Dr. T.J. Sarvoththama Jothi
+• CGPA: 9.06/10
+B.Tech. in Mechanical Engineering, Kerala University, India April 2012
+• CGPA: 7.69/10
