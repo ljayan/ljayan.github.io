@@ -3,6 +3,7 @@ title: 'Education'
 permalink: /education/
 ---
 <br>
+
 **Ph.D. in Physical Oceanography (Dec 2024)**  
 Department of Aerospace Engineering, Indian Institute of Technology Madras, Chennai, India   
 Advisor: [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en)  
