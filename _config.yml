@@ -234,14 +234,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-# _talks
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: false
   # _pages
   - scope:
       path: ""
