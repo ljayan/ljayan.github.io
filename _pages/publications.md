@@ -1,10 +1,5 @@
+1. Nadimpalli, J. R., **Jayan, L.**, Sampatirao, S. S., Suresh Kumar, N., Thangaprakash, V. P., Praveen Kumar, B., & Mathur, M. (2025). Internal tidal beams and their scattering in nonuniform stratification—Observations at a continental slope in the northwest Bay of Bengal. Journal of Geophysical Research: Oceans, 130(5), e2024JC021632._ [link]( https://doi.org/10.1029/2024JC021632)
 
-# Publications
+2. **Jayan, L.**, Jishad, M., Agarwal, N., Sharma, R., & Mathur, M. (2023). Detection of materially coherent eddies from satellite altimetry in the Bay of Bengal. Deep Sea Research Part I: Oceanographic Research Papers, 202, 104180._ [link](https://doi.org/10.1016/j.dsr.2023.104180)
 
-1. **J. Thomas 2016** : *Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water*, _J. Fluid. Mech., 788: 492-520._ [PDF](URL_HERE)
-
-2. **J. Thomas, K. S. Smith and O. Buhler 2017** : *Near-inertial wave dispersion by geostrophic flows*, _J. Fluid. Mech., 817: 406-438._ [PDF](URL_HERE)
-
-3. **J. Thomas 2017** : *New model for acoustic waves propagating through a vortical flow*, _J. Fluid. Mech., 823: 658-674._ [PDF](URL_HERE)
-
-4. **J. Thomas, O. Buhler and K. S. Smith 2018** : *Wave induced mean flows in rotating shallow water with uniform potential vorticity*, _J. Fluid. Mech., 839: 408-429._ [PDF](URL_HERE)
+3. Ratheesh, S., Agarwal, N., Chaudhary, A., **Lijin, J.**, Lekha, J. S., Mathur, M., ... & Kumar, R. (2020). Response of a high-resolution ocean circulation model to winds from different sources in simulating summer monsoon freshening in the North Bay of Bengal: A case study. Deep Sea Research Part II: Topical Studies in Oceanography, 172, 104727.._ [link](https://doi.org/10.1016/j.dsr2.2019.104727)
