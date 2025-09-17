@@ -252,23 +252,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _education
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: false
   # _publications
   - scope:
       path: ""
@@ -278,6 +261,25 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  
 
 
 
