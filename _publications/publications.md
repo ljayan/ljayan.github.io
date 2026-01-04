@@ -8,4 +8,4 @@ permalink: /publications/
 
 3. Ratheesh, S., Agarwal, N., Chaudhary, A., **Lijin, J.**, Lekha, J. S., Mathur, M., ... & Kumar, R. (2020). **Response of a high-resolution ocean circulation model to winds from different sources in simulating summer monsoon freshening in the North Bay of Bengal: A case study.** *Deep Sea Research Part II: Topical Studies in Oceanography*, 172, 104727._ [link](https://doi.org/10.1016/j.dsr2.2019.104727)
 
-4. **Lijin, J.**, Jothi, T. J. S. (2018). **Aerodynamic characteristics of an ogive-nose spinning projectile.** *Sādhanā *, 43, 63._ [link](https://doi.org/10.1007/s12046-018-0857-3)
+4. **Lijin, J.**, Jothi, T. J. S. (2018). **Aerodynamic characteristics of an ogive-nose spinning projectile.** *Sādhanā*, 43, 63._ [link](https://doi.org/10.1007/s12046-018-0857-3)
