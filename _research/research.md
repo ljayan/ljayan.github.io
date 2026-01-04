@@ -2,8 +2,12 @@
 title: ''
 permalink: /research/
 ---
+**Postdoctoral Fellow (Jan 2025 - present)**  
+International Centre for Theoretical Sciences (ICTS – TIFR), Bengaluru, India  
+Advisor: [Prof. Rama Govindarajan](https://www.icts.res.in/people/rama-govindarajan)  
+Research Area: *Particle transport in atmospheric and oceanic flows*
 
-**Postdoctoral Researcher (Dec 2024 - present)**  
+**Postdoctoral Researcher (Dec 2024 - Dec 2025)**  
 Geophysical Flows Lab (GFL), Indian Institute of Technology Madras, Chennai, India  
 Advisor: [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en)  
 Research Area: *Meso- and submesoscale ocean dynamics*
