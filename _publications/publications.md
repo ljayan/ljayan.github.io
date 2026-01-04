@@ -6,4 +6,6 @@ permalink: /publications/
 
 2. **Jayan, L.**, Jishad, M., Agarwal, N., Sharma, R., & Mathur, M. (2023). **Detection of materially coherent eddies from satellite altimetry in the Bay of Bengal.** *Deep Sea Research Part I: Oceanographic Research Papers*, 202, 104180._ [link](https://doi.org/10.1016/j.dsr.2023.104180)
 
-3. Ratheesh, S., Agarwal, N., Chaudhary, A., **Lijin, J.**, Lekha, J. S., Mathur, M., ... & Kumar, R. (2020). **Response of a high-resolution ocean circulation model to winds from different sources in simulating summer monsoon freshening in the North Bay of Bengal: A case study.** *Deep Sea Research Part II: Topical Studies in Oceanography*, 172, 104727.._ [link](https://doi.org/10.1016/j.dsr2.2019.104727)
+3. Ratheesh, S., Agarwal, N., Chaudhary, A., **Lijin, J.**, Lekha, J. S., Mathur, M., ... & Kumar, R. (2020). **Response of a high-resolution ocean circulation model to winds from different sources in simulating summer monsoon freshening in the North Bay of Bengal: A case study.** *Deep Sea Research Part II: Topical Studies in Oceanography*, 172, 104727._ [link](https://doi.org/10.1016/j.dsr2.2019.104727)
+
+4. **Lijin, J.**, Jothi, T. J. S. (2018). **Aerodynamic characteristics of an ogive-nose spinning projectile.** *Sādhanā *, 43, 63._ [link](https://doi.org/10.1007/s12046-018-0857-3)
