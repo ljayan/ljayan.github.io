@@ -2,7 +2,7 @@
 title: ''
 permalink: /research/
 ---
-**Postdoctoral Fellow (Jan 2025 - present)**  
+**Postdoctoral Fellow (Jan 2026 - present)**  
 International Centre for Theoretical Sciences (ICTS – TIFR), Bengaluru, India  
 Advisor: [Prof. Rama Govindarajan](https://www.icts.res.in/people/rama-govindarajan)  
 Research Area: *Particle transport in atmospheric and oceanic flows*
