@@ -224,9 +224,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  education:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,15 +248,6 @@ defaults:
   - scope:
       path: ""
       type: research
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
-  # _education
-  - scope:
-      path: ""
-      type: education
     values:
       layout: single
       author_profile: true
