@@ -218,12 +218,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  
 
 
 # These settings control how pages and collections are included in the site
@@ -235,15 +236,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
   # _research
   - scope:
       path: ""
@@ -253,6 +245,16 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  
   
 
 
