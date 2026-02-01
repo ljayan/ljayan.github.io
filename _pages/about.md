@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Atmospheric and Oceanic Fluid Dynamics"
+title: "Fluid Dynamics: Atmosphere, Ocean, Mixing, Wakes and Particles"
 author_profile: true
 redirect_from: 
   - /about/
