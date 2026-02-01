@@ -9,4 +9,4 @@ redirect_from:
 <br>
 I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru, working with [Prof. Rama Govindarajan](https://www.icts.res.in/people/rama-govindarajan) on particle transport in atmospheric and oceanic flows. Previously, I was a Postdoctoral Researcher at the Geophysical Flows Lab Centre of Excellence, IIT Madras, where I worked with [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en) on submesoscale dynamics in the northern Bay of Bengal. I completed my Ph.D. at IIT Madras, focusing on tracer transport and stirring across multiple spatial and temporal scales in the Bay of Bengal. 
 
-My research interests include *tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff body wakes*.
+My current research interests include *tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff-body wakes*.
