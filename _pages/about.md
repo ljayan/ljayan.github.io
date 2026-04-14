@@ -14,7 +14,7 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
   <!-- Text -->
   <div style="flex: 0.8; min-width: 150px;">
     <p style="margin-top: 0;">
-    My current <strong>research interests<strong> include <em>tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff-body wakes</em>.
+    My current <strong>research interests</strong>strong> include <em>tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff-body wakes</em>.
     </p>
   </div>
 
