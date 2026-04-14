@@ -11,21 +11,23 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-  <!-- Text (smaller width, remove extra top spacing) -->
+  <!-- Text -->
   <div style="flex: 1; min-width: 220px;">
     <p style="margin-top: 0;">
     My current research interests include <em>tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff-body wakes</em>.
     </p>
   </div>
 
-  <!-- Image (larger + aligned to top) -->
+  <!-- Image -->
   <div style="flex: 2.5; min-width: 320px; text-align: center;">
     <figure style="margin-top: 0;">
       <img src="/images/dsr.png" alt="My figure" style="width: 100%; max-width: 520px;">
-      <figcaption style="font-size: 0.95em;">
-        <a href="https://doi.org/10.1016/j.dsr.2023.104180" target="_blank">
-          https://doi.org/10.1016/j.dsr.2023.104180
-        </a>
+      <figcaption style="font-size: 0.9em;">
+        <a href="https://doi.org/10.1016/j.dsr.2023.104180" 
+   target="_blank" 
+   style="color: #1a73e8; font-size: 0.85em;">
+  DOI: 10.1016/j.dsr.2023.104180
+</a>
       </figcaption>
     </figure>
   </div>
