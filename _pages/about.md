@@ -21,7 +21,7 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
   <!-- Image -->
   <div style="flex: 3; min-width: 320px; text-align: center;">
     <figure style="margin-top: 0;">
-      <img src="/images/dsr.png" alt="My figure" style="width: 100%; max-width: 520px;">
+      <img src="/images/dsr.png" alt="My figure" style="width: 100%; max-width: 650px;">
       <figcaption style="font-size: 0.9em;">
         <a href="https://doi.org/10.1016/j.dsr.2023.104180" 
    target="_blank"
