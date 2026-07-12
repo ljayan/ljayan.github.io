@@ -28,7 +28,7 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
    style="color: #1a73e8; font-size: 0.85em; text-decoration: none;"
    onmouseover="this.style.textDecoration='none';"
    onmouseout="this.style.textDecoration='none';">
-  Highlight: DOI: 10.1016/j.dsr.2023.104180
+  DOI: 10.1016/j.dsr.2023.104180
 </a>
       </figcaption>
     </figure>
