@@ -18,6 +18,7 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
     </p>
   </div>
 
+<!--
   <!-- Image -->
   <div style="flex: 3; min-width: 320px; text-align: center;">
     <figure style="margin-top: 0;">
@@ -33,5 +34,7 @@ I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences 
       </figcaption>
     </figure>
   </div>
+-->
 
 </div>
+
