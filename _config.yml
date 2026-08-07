@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Lijin Jayan | Physical Oceanographer"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lijin Jayan"
 description              : &description "Personal website of Lijin Jayan, Physical Oceanographer working on submesoscale dynamics, satellite observations, and ocean modeling."   # Update this with a general description of your site, this is the default if not overridden by a page
