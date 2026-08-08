@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am Lijin Jayan, Physical Oceanographer working on submesoscale dynamics, satellite observations, and ocean modeling.
+I am Lijin Jayan, a Physical Oceanographer working on transport and mixing in geophysical flows. My research interests broadly span tracer and particle transport, meso- and submesoscale ocean dynamics, and bluff-body wakes.
 
-Currently, I am a Postdoctoral Fellow at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru, working with [Prof. Rama Govindarajan](https://www.icts.res.in/people/rama-govindarajan) on particle transport in atmospheric and oceanic flows. Previously, I was a Postdoctoral Researcher at the Geophysical Flows Lab Centre of Excellence, IIT Madras, where I worked with [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en) on submesoscale dynamics in the northern Bay of Bengal. I completed my Ph.D. at IIT Madras, focusing on tracer transport and stirring across multiple spatial and temporal scales in the Bay of Bengal. 
+I am currently a Postdoctoral Fellow at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru, where I work with [Prof. Rama Govindarajan](https://www.icts.res.in/people/rama-govindarajan) on particle transport in atmospheric and oceanic flows. Prior to joining ICTS, I was a Postdoctoral Researcher at the Geophysical Flows Lab Centre of Excellence, IIT Madras, working with [Prof. Manikandan Mathur](https://scholar.google.co.in/citations?user=QbrM7-gAAAAJ&hl=en) on submesoscale dynamics in the northern Bay of Bengal. I received my Ph.D. from IIT Madras, where I investigated tracer transport and stirring in the Bay of Bengal across a range of spatial and temporal scales.
 
-My current research interests include <em>tracer and particle transport in geophysical flows, meso- and submesoscale ocean dynamics, and bluff-body wakes</em>.
+I can be reached at [lijinaero@gmail.com](mailto:lijinaero@gmail.com).
